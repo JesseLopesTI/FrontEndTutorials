@@ -18,4 +18,4 @@ function clock() {
   document.getElementById("clock").innerHTML = hours + ":" + minutes + ":" + seconds;
 }
 
-window.setIntervals("clock()", 1000);
+window.setInterval("clock()", 1000);
