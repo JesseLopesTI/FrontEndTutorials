@@ -8,7 +8,9 @@ Repositório de estudos de **Front-End**, realizados durante tutoriais assistido
 * **CSS**
 * **JavaScript**
 
-## Tutorial 001
+## Tutoriais
+
+**Tutorial 001**
 
 Criando um relógio através do tutorial do canal [HxTutors](https://www.youtube.com/channel/UC-KV2g7wDXFPLqEFan4oeBQ), do YouTube.
 
