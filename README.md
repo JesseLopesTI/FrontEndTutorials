@@ -10,7 +10,7 @@ Repositório de estudos de **Front-End**, realizados durante tutoriais assistido
 
 ## Tutoriais
 
-**Tutorial 001**
+**#1 Tutorial 001**
 
 Criando um relógio através do tutorial do canal [HxTutors](https://www.youtube.com/channel/UC-KV2g7wDXFPLqEFan4oeBQ), do YouTube.
 
