@@ -15,3 +15,9 @@ Repositório de estudos de **Front-End**, realizados durante tutoriais assistido
 Criando um relógio através do tutorial do canal [HxTutors](https://www.youtube.com/channel/UC-KV2g7wDXFPLqEFan4oeBQ), do YouTube.
 
 **Resultado:** [tutorial-001](https://github.com/JesseLopesTI/FrontEndTutorials/tree/master/tutorial-001)
+
+**#2 Tutorial 002**
+
+Criando um cronômetro através do tutorial do canal [HxTutors](https://www.youtube.com/channel/UC-KV2g7wDXFPLqEFan4oeBQ), do YouTube.
+
+**Resultado:** [tutorial-002](https://github.com/JesseLopesTI/FrontEndTutorials/tree/master/tutorial-002)
