@@ -107,6 +107,10 @@ li a:hover {
   margin-right: 8px;
 }
 
+.carousel {
+  margin-top: 8px;
+}
+
 .movie {
   height: 100%;
   width: 100%;
